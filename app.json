@@ -37,6 +37,9 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "EXPO_PUBLIC_GOOGLE_MAP_KEY": "AIzaSyC8vljYXoRkJrVHp966X_c4mxqy0LW4AWA"
     }
   }
 }
